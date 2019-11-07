@@ -1,0 +1,4 @@
+1. build to generate the java files from proto
+	- This creates the files under target/generaated-sources
+2. Start the server
+3. Run the client
